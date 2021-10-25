@@ -20,7 +20,7 @@ Short term period: **7 days**
 
 Long term period: **25 days**
 
-## Buying conditions 🛒✔️
+## Buying conditions 📈🛒
 Live Shor Term =  (Historical Shor Term values / Live Price) /  Short term period
 
 Live Long Term  =  (Historical Long Term values / Live Price) /  Long term period
@@ -28,7 +28,7 @@ Live Long Term  =  (Historical Long Term values / Live Price) /  Long term perio
 
 Live Short Term is bigger than Live Long Term  --> BUY !!! (SMA Crossover)
 
-## Selling conditions 🛒❌
+## Selling conditions 📉🛒
 Stop Loss = Buy price * 0.098
 
 
